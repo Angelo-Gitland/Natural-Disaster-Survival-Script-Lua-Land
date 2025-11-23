@@ -1,1 +1,0 @@
-# Natural-Disaster-Survival-Script-Lua-Land
